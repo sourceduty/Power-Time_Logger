@@ -7,9 +7,7 @@ Copyright (c) 2022, Alex Aldridge
 
 #
 
-Record each time a USB port is powered on/off and  record the total USB usage time.
-
-Total recording time is 365 days.
+Records each time a USB port is powered on/off and logs the data for 365 days before it resets automatically.
 
 Press the SELECT button to switch between total on/off and total time.
 
