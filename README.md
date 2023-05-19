@@ -7,7 +7,7 @@ Copyright (c) 2022, Alex Aldridge
 
 #
 
-Record each time a USB port is powered on/off,  record the total USB usage time and program usage time total.
+Record each time a USB port is powered on/off and  record the total USB usage time.
 
 Total recording time is 365 days.
 
