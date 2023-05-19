@@ -5,9 +5,9 @@ Power Time Logger 1.0.0 for Arduino UNO and LCD Keypad Shield.
 
 Copyright (c) 2022, Alex Aldridge
 
-Created on October 7, 2022
+#
 
-Power Time Logger records each time a USB port is powered on/off.
+Record each time a USB port is powered on/off,  record the total USB usage time and program usage time total.
 
 Total recording time is 365 days.
 
@@ -16,6 +16,8 @@ Press the SELECT button to switch between total on/off and total time.
 Press the LEFT button to reset the program.
 
 Use this project to log usage times for any device that has an on/off USB port (wi-fi router, 3D printer, computer, etc.).
+
+#
 
 This software is free and open-source; anyone can redistribute it and/or modify it.
 
