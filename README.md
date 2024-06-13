@@ -1,9 +1,6 @@
-# PowerTime
-Power Time Logger 1.0.0 for Arduino UNO and LCD Keypad Shield.
+![PTL](https://github.com/sourceduty/PowerTime/assets/123030236/8572d0d4-7177-4c59-bc71-37570251cd90)
 
-![PTL](https://github.com/sourceduty/PowerTime/assets/123030236/12f0158e-2225-4086-b1c9-3b46e9e8ef24)
-
-Copyright (c) 2022, Alex Aldridge
+> Power Time Logger v1.0 for Arduino UNO and LCD Keypad Shield.
 
 #
 
@@ -16,7 +13,9 @@ Press the LEFT button to reset the program.
 Use this project to log usage times for any device that has an on/off USB port (wi-fi router, 3D printer, computer, etc.).
 
 #
+### Related Links
 
-This software is free and open-source; anyone can redistribute it and/or modify it.
+[Power Time Logger - Hackster](https://www.hackster.io/s0urceduty/power-time-logger-for-arduino-uno-fe7fab)
 
-https://www.hackster.io/alexaldridge/power-time-logger-for-arduino-uno-fe7fab
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
