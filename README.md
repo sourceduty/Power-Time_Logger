@@ -3,6 +3,7 @@
 > Power Time Logger v1.0 for Arduino UNO and LCD Keypad Shield.
 
 #
+### Power Time Logger
 
 Records each time a USB port is powered on/off and logs the data for 365 days before it resets automatically.
 
