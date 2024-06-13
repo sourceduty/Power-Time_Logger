@@ -20,6 +20,24 @@ Use this project to log usage times for any device that has an on/off USB port (
 > *"Power Time logger is a unique Arduino device project and not a marketable electronics product."*
 
 #
+### Similar Electronics
+
+#### MakerHawk USB Tester
+
+Features: Measures voltage (3.6V-32V), current (0-5.1A), power (0-155W), and capacity. It has an OLED display for real-time monitoring and can log data.
+Usage: Simply plug the device into the USB port and connect your USB device to the tester. The tester will display real-time data and can log the information for later review.
+
+#### DROK USB Tester
+
+Features: Provides real-time monitoring of voltage, current, power, and capacity. It has a clear display and can log data over time.
+Usage: Plug the tester into the USB port and connect your USB device. The tester logs data, which you can review on the display or export for detailed analysis.
+
+#### UM25C USB Tester
+
+Features: Measures voltage (4-24V), current (0-5A), power (0-120W), and energy. It includes Bluetooth for wireless data logging and monitoring via a smartphone app.
+Usage: Connect the tester to your USB port and your device. Use the smartphone app to monitor and log data over time.
+
+#
 ### Related Links
 
 [Power Time Logger - Hackster](https://www.hackster.io/s0urceduty/power-time-logger-for-arduino-uno-fe7fab)
