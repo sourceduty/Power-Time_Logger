@@ -19,6 +19,8 @@ Use this project to log usage times for any device that has an on/off USB port (
 
 > *"Power Time logger is a unique Arduino device project and not a marketable electronics product."*
 
+> *"EL-USB-1 launched in 2004, this is a USB temperature data logger manufactured by [Liscar Electronics](https://lascarelectronics.com/data-loggers/) that can store over 16,000 readings."*
+
 #
 ### Related Links
 
