@@ -27,6 +27,10 @@ Use this project to log usage times for any device that has an on/off USB port (
 [State Data Logger](https://www.omega.ca/en/data-acquisition/data-loggers/state-event-and-pulse-data-loggers/p/OM-EL-USB-5-Logger)
 <br>
 [EasyLog | EL-USB-5+](https://lascarelectronics.com/data-loggers/event-count-state/el-usb-5-plus/)
+<br>
+[Power Analyzer](https://www.aemc.com/products/power-analyzers/)
+<br>
+[Tiny Tag](https://www.geminidataloggers.com/data-loggers/tinytag-energy-data-logger/tge-0001)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
