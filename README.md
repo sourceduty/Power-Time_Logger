@@ -14,9 +14,19 @@ Press the LEFT button to reset the program.
 Use this project to log usage times for any device that has an on/off USB port (wi-fi router, 3D printer, computer, etc.).
 
 #
+
+> Alex: *"This is my first Arduino project that was completed in 2022."*
+
+> *"Power Time logger is a unique Arduino device project and not a marketable electronics product."*
+
+#
 ### Related Links
 
 [Power Time Logger - Hackster](https://www.hackster.io/s0urceduty/power-time-logger-for-arduino-uno-fe7fab)
+<br>
+[State Data Logger](https://www.omega.ca/en/data-acquisition/data-loggers/state-event-and-pulse-data-loggers/p/OM-EL-USB-5-Logger)
+<br>
+[EasyLog | EL-USB-5+](https://lascarelectronics.com/data-loggers/event-count-state/el-usb-5-plus/)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
