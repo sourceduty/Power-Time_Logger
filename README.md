@@ -82,6 +82,8 @@ Usage: Connect the tester to your USB port and your device. Use the smartphone a
 [Power Analyzer](https://www.aemc.com/products/power-analyzers/)
 <br>
 [Tiny Tag](https://www.geminidataloggers.com/data-loggers/tinytag-energy-data-logger/tge-0001)
+<br>
+[Power-Input Log](https://github.com/sourceduty/Power-Input_Log)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
